@@ -1,0 +1,45 @@
+.scroll::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.scroll {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.addbtn {
+  background-color: #e903ff;
+  color: white;
+  border: none;
+}
+
+#root {
+  background-color: #051956;
+  color: white;
+  border: none;
+}
+
+.cardColor {
+  background-color: #3451a1;
+  color: white;
+  border: none;
+}
+.smallCard {
+  background-color: #051956;
+  color: white;
+  border: none;
+  border-radius: .7em;
+}
+
+.x {
+  color: #244894;
+}
+
+.clear {
+  color: #e903ff;
+}
+
+.textColor {
+  color: #e8e9f7
+}
